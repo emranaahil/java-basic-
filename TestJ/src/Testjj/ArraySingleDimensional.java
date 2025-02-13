@@ -1,6 +1,6 @@
 package Testjj;
 
-public class Array {
+public class ArraySingleDimensional {
 	public static void main(String[]arg){
 	
 		//approach 1
