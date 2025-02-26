@@ -29,12 +29,21 @@ public class ArrayTwoMultiDimensional {
 //	System.out.println("Single Row and Column value"+ a[0][0]);
 //	System.out.println("Two Row and Single Column value"+ a[0][0] +a[0][1]);
 
-		for(int r=0; r<=2; r++ ) // for row
+//		for(int r=0; r<=2; r++ ) // for row
+//		{
+//			for(int s=0; s<=1; s++) //for cloumn
+//			{
+//				System.out.println(a[r][s]);
+//			}
+//		}
+		
+		
+		//enhanced for loop or each loop
+		
+		for(int arr[]:a) /// arr will read first index and store it in x and this goes until the last index
 		{
-			for(int s=0; s<=1; s++) //for cloumb
-			{
-				System.out.println(a[r][s]);
-			}
+			for(int x:arr) //x will read index and print. 
+				System.out.println(x);
 		}
 	
 	}
