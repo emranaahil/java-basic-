@@ -21,9 +21,6 @@ Scanner sc= new Scanner(System.in);
 	System.out.print("Array stored");
 	
 	System.out.println(Arrays.toString(a));
-//
-
-	
 
 	
 	}
