@@ -7,7 +7,7 @@ public class Employee {
 	int epin;
 	String name;
 	
-	//Methods
+	//Normal Methods
 	void display()
 	{
 		System.out.println("Employee name is "+name);
@@ -16,7 +16,7 @@ public class Employee {
 		
 		
 	}
-
+//Method
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -27,6 +27,9 @@ public class Employee {
 		emp1.epin=2285;
 		emp1.name="Ravi";
 		emp1.display();
+		
+///without display method we can 
+///call emp1.age to print 
 
 	}
 
