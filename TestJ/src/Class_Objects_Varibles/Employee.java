@@ -23,10 +23,10 @@ public class Employee {
 		//object
 		
 		Employee emp1=new Employee();
-		emp1.age=20;
-		emp1.epin=2285;
-		emp1.name="Ravi";
-		emp1.display();
+//		emp1.age=20;
+//		emp1.epin=2285;
+//		emp1.name="Ravi";
+//		emp1.display();
 		
 ///without display method we can 
 ///call emp1.age to print 
