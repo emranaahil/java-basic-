@@ -8,7 +8,7 @@ public class Main_Studuent_Class {
 		
 		//using method to pass data
 		SC.SetDataS(10, "Test" , 'A');
-		
+		//as
 		//print using student class method
 		SC.GetStudent();
 	}
