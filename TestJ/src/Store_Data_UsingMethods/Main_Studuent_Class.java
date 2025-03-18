@@ -11,6 +11,6 @@ public class Main_Studuent_Class {
 		//as
 		//print using student class method
 		SC.GetStudent();
-	}   //
+	}   
 
 }
